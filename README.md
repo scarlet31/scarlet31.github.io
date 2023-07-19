@@ -14,6 +14,8 @@ Scarlet31's Project
 
 [Nirvana -- Greatest Hits](https://www.youtube.com/watch?v=UmQWV01xRdg)
 
+[Die Antwoord - Mt. Ninja and the Nice time Kid](https://www.youtube.com/watch?v=d80MG0TZ8mU)
+
 [kruhft -- macro-2](https://www.youtube.com/watch?v=nD1kA0sB8eU)
 
 --
