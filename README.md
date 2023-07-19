@@ -33,6 +33,8 @@ Then, some music:
 
 [kruhft -- macro-2](https://www.youtube.com/watch?v=nD1kA0sB8eU)
 
+[Egal and the Wandering Elk -- Full Album](https://kruhft.bandcamp.com/album/egal-and-the-wandering-elk)
+
 Next, some code:
 
 TODO
