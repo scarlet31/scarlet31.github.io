@@ -5,7 +5,7 @@ Check back frequently for updates.
 
 Submit a 'Pull Request' to communicate.
 
-Search for [How to submit a pull request on github](https://bfy.tw/UJON) to contribute.
+Search for [How to submit a pull request on github](https://www.google.com/search?q=how+to+submit+a+pull+request+on+github) to contribute.
 
 ==
 
