@@ -12,6 +12,8 @@ Scarlet31's Project
 
 [Joy Division -- Best of](https://www.youtube.com/watch?v=VZ1BOPWbVms)
 
+[Nirvana -- Greatest Hits](https://www.youtube.com/watch?v=UmQWV01xRdg)
+
 [kruhft -- macro-2](https://www.youtube.com/watch?v=nD1kA0sB8eU)
 
 --
