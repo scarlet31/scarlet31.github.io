@@ -10,7 +10,7 @@ Scarlet31's Project
 
 [Taylor Swift -- Reputation](https://www.youtube.com/watch?v=T62maKYX9tU&list=PLV1bhAAf21cSxHaqUDyG1meQz3hUPi4eO)
 
-(Joy Division -- Best of)[https://www.youtube.com/watch?v=VZ1BOPWbVms]
+[Joy Division -- Best of](https://www.youtube.com/watch?v=VZ1BOPWbVms)
 
 [kruhft -- macro-2](https://www.youtube.com/watch?v=nD1kA0sB8eU)
 
