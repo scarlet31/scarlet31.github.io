@@ -9,10 +9,11 @@ Search for [How to submit a pull request on github](https://www.google.com/searc
 
 ==
 
-First, some music.
+First, a picture:
 
 ![The Kabbevela Fixed](kabbevalah--fixed--2018.png "The Kabbevala Fixed (2018)")
 
+Then, some music:
 
 [Saul Williams -- Full Album](https://www.youtube.com/watch?v=b1S7qTsW5SY&list=PLdwVGhtJhPswZgPUExHdRhi2I6wRI4hOQ)
 
