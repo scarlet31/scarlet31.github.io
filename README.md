@@ -9,6 +9,8 @@ Search for [How to submit a pull request on github](https://www.google.com/searc
 
 ==
 
+First, some music.
+
 ![The Kabbevela Fixed](kabbevalah--fixed--2018.png "The Kabbevala Fixed (2018)")
 
 
@@ -25,6 +27,10 @@ Search for [How to submit a pull request on github](https://www.google.com/searc
 [Die Antwoord - Mt. Ninja and the Nice time Kid](https://www.youtube.com/watch?v=d80MG0TZ8mU)
 
 [kruhft -- macro-2](https://www.youtube.com/watch?v=nD1kA0sB8eU)
+
+Next, some code:
+
+TODO
 
 --
 Skarlet31
