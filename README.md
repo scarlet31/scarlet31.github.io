@@ -5,6 +5,8 @@ Check back frequently for updates.
 
 Submit a 'Pull Request' to communicate.
 
+Search for 'How to submit a pull request on github' to contribute.
+
 ==
 
 ![The Kabbevela Fixed](kabbevalah--fixed--2018.png "The Kabbevala Fixed (2018)")
