@@ -1,7 +1,7 @@
 # scarlet31.github.io
 Scarlet31's Project
 
-This site is to get more Girls interested in coding.
+This site is to get more Girls interested in coding and programming.
 
 And reading.  You will find 2 of my books in the files.
 
