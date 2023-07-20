@@ -1,0 +1,20 @@
+* (define :compiler compile-burton-number-to-integer (&optional (burton-number
+							       (make-legal-burton-number)))
+  (print burton-number)
+  (let ((retval (parse-integer 
+		 (apply #'concatenate
+			'string
+			(mapcar
+			 (lambda (n) 
+			   (format nil "~S" n))
+			 burton-number))
+		 :radix 36)))
+    retval))
+
+WARNING: redefining QUILL::COMPILE-BURTON-NUMBER-TO-INTEGER in DEFUN
+COMPILE-BURTON-NUMBER-TO-INTEGER
+* (compile-burton-number-to-integer (make-funky-burton-number))
+
+(0 1 4 3 8 7 6 9 2 5) 
+3141592689245
+* ;; 3.14159... WTF?  How does this function work???
