@@ -11,6 +11,8 @@ Submit a 'Pull Request' to communicate.
 
 Search for [How to submit a pull request on github](https://www.google.com/search?q=how+to+submit+a+pull+request+on+github) to contribute.
 
+Or you can use [Issues](https://github.com/scarlet31/scarlet31.github.io/issues).
+
 ==
 
 First, a picture:
