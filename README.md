@@ -41,5 +41,7 @@ Next, some code:
 
 [metashell (with a link to anser) -- C++](https://www.github.com/burtonsamograd/metashell)
 
+[sxc -- Common Lisp](https://github.com/burtonsamograd/sxc)
+
 --
 Skarlet31
