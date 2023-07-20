@@ -21,6 +21,8 @@ First, a picture:
 
 Then, some music:
 
+[kruhft -- Songs for Beautiful Girls](https://archive.org/details/Kruhft-SongsForBeautifulGirls)
+
 [Saul Williams -- Full Album](https://www.youtube.com/watch?v=b1S7qTsW5SY&list=PLdwVGhtJhPswZgPUExHdRhi2I6wRI4hOQ)
 
 [Gridlock -- Formless](https://www.youtube.com/watch?v=YFLhE7VmJuw)
