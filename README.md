@@ -1,4 +1,5 @@
-# scarlet31.github.io
+# [scarlet31.github.io](https://scarlet31.github.io)
+
 Scarlet31's Project -- Click the links above for more info.
 
 Set as your home page.  Why not?
