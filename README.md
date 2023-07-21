@@ -1,5 +1,7 @@
 # scarlet31.github.io
-Scarlet31's Project
+Scarlet31's Project -- Click the links above for more info.
+
+Set as your home page.  Why not?
 
 This site is to get more Girls interested in coding and programming.
 
