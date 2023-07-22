@@ -48,6 +48,8 @@ Next, some code:
 
 [metashell (with a link to anser) -- C++](https://www.github.com/burtonsamograd/metashell)
 
+[explain - Shell](https://github.com/burtonsamograd/explain)
+
 [sxc -- Common Lisp](https://github.com/burtonsamograd/sxc)
 
 [rv - Javascript](https://github.com/BusFactor1Inc/rv)
