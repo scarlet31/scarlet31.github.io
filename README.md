@@ -32,6 +32,8 @@ Then, some music:
 
 [Taylor Swift -- Reputation](https://www.youtube.com/watch?v=T62maKYX9tU&list=PLV1bhAAf21cSxHaqUDyG1meQz3hUPi4eO)
 
+[kruhft -- pwn3d LP](https://archive.org/details/kruhft__pwn3d__2005)
+
 [Joy Division -- Best of](https://www.youtube.com/watch?v=VZ1BOPWbVms)
 
 [Nirvana -- Greatest Hits](https://www.youtube.com/watch?v=UmQWV01xRdg)
