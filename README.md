@@ -54,5 +54,7 @@ Next, some code:
 
 [rv - Javascript](https://github.com/BusFactor1Inc/rv)
 
+[eturia - Lisp](http://www.kruhft.ca/boot/dev.html) -- With music.
+
 --
 Skarlet31
