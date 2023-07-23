@@ -57,10 +57,13 @@ Next, some code:
 [eturia - Lisp](http://www.kruhft.ca/boot/dev.html) -- With music.
 
 anser - 'goose' in Latin
+
 Anser is a bi-directional digical logic simulator based on the following
+
 chapters of Structure and Interpretation of Computer Programs (SICP):
 
 [3.3.4 A Simulator for Digital Circuits](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book-Z-H-4.html#%_toc_%_sec_3.3.4)
+
 [3.3.5 Propagation of Constraints (Propagators)](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book-Z-H-4.html#%_toc_%_sec_3.3.5)
 
 --
