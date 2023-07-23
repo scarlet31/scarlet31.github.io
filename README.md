@@ -16,6 +16,8 @@ Search for [How to submit a pull request on github](https://www.google.com/searc
 
 Or you can use [Issues](https://github.com/scarlet31/scarlet31.github.io/issues).
 
+NEW: [Discussions](https://github.com/scarlet31/scarlet31.github.io/discussions) have been enabled.
+
 ==
 
 First, a picture:
