@@ -4,7 +4,7 @@ Scarlet31's Project -- Click the links above for more info.
 
 Set as your home page.  Why not?
 
-This site is to get more Girls interested in coding and programming.
+This site is to get more People interested in coding and programming.
 
 And reading.  You will find 2 of my books in the files.
 
