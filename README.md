@@ -1,5 +1,7 @@
 # [scarlet31.github.io](https://scarlet31.github.io)
 
+![Scarlet31's Ship](Scarlet31%20Ship%20--%202023.png)
+
 Scarlet31's Project -- Click the links above for more info.
 
 Set as your home page.  Why not?
