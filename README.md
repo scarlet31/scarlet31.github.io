@@ -56,7 +56,7 @@ Next, some code:
 
 [eturia - Lisp](http://www.kruhft.ca/boot/dev.html) -- With music.
 
-anser - 'goose' in Latin
+[anser](https://github.com/burtonsamograd/anser) - 'goose' in Latin
 
 Anser is a bi-directional digical logic simulator based on the following
 
