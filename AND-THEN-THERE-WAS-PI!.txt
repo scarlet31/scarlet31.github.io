@@ -18,3 +18,9 @@ COMPILE-BURTON-NUMBER-TO-INTEGER
 (0 1 4 3 8 7 6 9 2 5) 
 3141592689245
 * ;; 3.14159... WTF?  How does this function work???
+* (define :constant the-most-interesting-burton-number (0 1 4 3 8 7 6 9 2 5)
+     "when read in base36, leads to a 6 digit approximation of PI")
+THE-MOST-INTERESTING-BURTON-NUMBER
+* (define :constant PI! (compile-burton-number-to-integer the-most-interesting-burton-number))
+PI!
+*
