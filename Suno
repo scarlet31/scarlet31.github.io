@@ -18,6 +18,7 @@ QUILL> `(the Suno is ...)
 QUILL> `(the Suno is ..)
 ; Evaluation aborted on #<SB-INT:SIMPLE-READER-ERROR "too many dots" {1009562683}>.
 QUILL> `(the Suno is .)
+...
 
 --
 Burton John Samograd
