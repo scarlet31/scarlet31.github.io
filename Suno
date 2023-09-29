@@ -1,0 +1,25 @@
+Listen to this: https://kruhft.bandcamp.com/track/suno
+
+And then figure this out:
+
+; SLIME 2.24
+QUILL> #36pSuno
+WARNING: A numeric argument was ignored in #36P.
+; Evaluation aborted on #<TYPE-ERROR expected-type:
+             (OR (VECTOR CHARACTER) (VECTOR NIL) BASE-STRING PATHNAME SYNONYM-STREAM ..)
+
+             datum: SUNO>.
+QUILL> :Suno
+:SUNO
+QUILL> 'Suno
+SUNO
+QUILL> `(the Suno is ...)
+; Evaluation aborted on #<SB-INT:SIMPLE-READER-ERROR "too many dots" {10093CACC3}>.
+QUILL> `(the Suno is ..)
+; Evaluation aborted on #<SB-INT:SIMPLE-READER-ERROR "too many dots" {1009562683}>.
+QUILL> `(the Suno is .)
+
+--
+Burton John Samograd
+burtonjohnsamograd@protonmail.com
+2023
