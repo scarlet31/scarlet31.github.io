@@ -70,5 +70,7 @@ chapters of Structure and Interpretation of Computer Programs (SICP):
 
 [3.3.5 Propagation of Constraints (Propagators)](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book-Z-H-4.html#%_toc_%_sec_3.3.5)
 
+[The 48 Laws of Power in Lisp](https://gist.github.com/scarlet31/60c62d2790e7e77ca0e55f293a3fc6f4)
+
 --
 [Skarlet31](http://burton.samograd.ca/Blog/) -- Read More.
